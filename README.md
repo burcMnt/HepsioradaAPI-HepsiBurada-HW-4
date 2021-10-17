@@ -6,13 +6,15 @@ Sipariþleri listelemek için hem kullanýcý özelinde hem de id özelinde mongodb de
 
 #### SQL Database Diagram
 
-> <img src=""/>
-
+> <img src="https://github.com/burcMnt/HepsioradaAPI-HepsiBurada-HW-4/blob/master/Hepsiorada.Api/Images/Adsýz.png"/>
 
 #### Swagger
 
-> <img src=""/>
+> <img src="https://github.com/burcMnt/HepsioradaAPI-HepsiBurada-HW-4/blob/master/Hepsiorada.Api/Images/Swagger.png"/>
+
+> <img src="https://github.com/burcMnt/HepsioradaAPI-HepsiBurada-HW-4/blob/master/Hepsiorada.Api/Images/Swagger2.png"/>
 
 #### MongoDb
-> <img src=""/>
+
+> <img src="https://github.com/burcMnt/HepsioradaAPI-HepsiBurada-HW-4/blob/master/Hepsiorada.Api/Images/MongoDbpng.png"/>
 
