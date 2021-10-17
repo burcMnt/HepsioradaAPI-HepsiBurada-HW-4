@@ -1,8 +1,8 @@
 # HepsiOrada ECommerce API
 
-Geliþtirdiðimiz bu basit e-ticaret sitesi apisinde SQL veri tabaný olan MSSql veri tabaný üzerinde Dapper kullarak veri oluþturma ve veri çekme iþlemleri yapýlmýþtýr.
-Ayrýca NoSQL veri tabaný MongoDb ile kaydedilen verilerden sipariþin özet bilgisinin yer aldýðý bir kayýt buraya atýlmýþtýr.
-Sipariþleri listelemek için hem kullanýcý özelinde hem de id özelinde mongodb deki sipariþ bilgilerini gösteren bir restful geliþtirilmiþtir.
+Geliþtirdiðimiz bu basit e-ticaret sitesi apisinde MsSql veri tabaný üzerinde Dapper micro ORM kullanýlarak veri oluþturma "post" ve veri çekme "get" iþlemleri yapýlmýþtýr.
+Ayrýca bir NoSQL veri tabaný olan MongoDb'ye, MsSql üzerine kaydedilen verilerden sipariþin özet bilgisinin yer aldýðý bir kayýt atýlmýþtýr.
+Sipariþleri listelemek için MongoDb deki sipariþ bilgilerini de gösteren bir restful api geliþtirilmiþtir.
 
 #### SQL Database Diagram
 
